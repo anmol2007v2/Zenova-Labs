@@ -1,0 +1,1289 @@
+.zenova-labs,
+.zenova-labs * {
+  box-sizing: border-box;
+}
+.zenova-labs {
+  background: linear-gradient(
+    166.94deg,
+    rgba(11, 17, 32, 1) 0%,
+    rgba(15, 23, 42, 1) 100%
+  );
+  height: 3206px;
+  position: relative;
+  overflow: hidden;
+}
+.rectangle-2 {
+  background: var(--cards-and-sections, #1e293b);
+  width: 1442px;
+  height: 107px;
+  position: absolute;
+  left: -1px;
+  top: 1975px;
+}
+.focus-room {
+  width: 1440px;
+  height: 678px;
+  position: absolute;
+  left: 1px;
+  top: 1348px;
+  overflow: hidden;
+}
+.frame-22 {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 739px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 6px;
+}
+.explore-deep-focus-rooms {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--h2-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h2-font-size, 36px);
+  font-weight: var(--h2-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.be-more-organized-and-reduce-your-stress-with-our-task-timer-notes-planner-calendar-and-more {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  font-family: "Inter-Regular", sans-serif;
+  font-size: 16px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.frame-37 {
+  display: flex;
+  flex-direction: row;
+  gap: 44px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1260px;
+  position: absolute;
+  left: 74px;
+  top: 162px;
+}
+.frame-34 {
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 546px;
+  height: 440px;
+  position: relative;
+}
+.cafe-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 290.25px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 16/9;
+}
+.frame-25 {
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 397px;
+  position: relative;
+}
+.frame-24 {
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 218px;
+  position: relative;
+}
+.mountain-cabin {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h3-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h3-font-size, 28px);
+  font-weight: var(--h3-font-weight, 600);
+  position: relative;
+  width: 254px;
+}
+.focus-music-and-soundscapes-backed-by-science-of-deep-work {
+  color: rgba(255, 255, 255, 0.8);
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-23 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.enter-room {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+}
+.frame-28 {
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 546px;
+  height: 440px;
+  position: relative;
+}
+.frame-33 {
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 546px;
+  height: 440px;
+  position: relative;
+}
+.frame-36 {
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 546px;
+  height: 440px;
+  position: relative;
+}
+.frame-35 {
+  padding: 0px 15px 0px 15px;
+  display: flex;
+  flex-direction: column;
+  gap: 54px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 546px;
+  height: 440px;
+  position: relative;
+}
+.home {
+  width: 1440px;
+  height: 728px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  overflow: hidden;
+}
+.frame-19 {
+  padding: 0px 3px 0px 77px;
+  display: flex;
+  flex-direction: row;
+  gap: 53px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1440px;
+  height: 466px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 177px;
+}
+.frame-18 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 521px;
+  position: relative;
+}
+.frame-14 {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.enter-your-deep-work-dimension {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.transform-distraction-into-clarity-with-immersive-focus-environments-track-your-deep-work-sessions-and-build-unstoppable-momentum {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--body-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  font-weight: var(--body-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-17 {
+  display: flex;
+  flex-direction: row;
+  gap: 26px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-15 {
+  background: var(--buttons-icons-and-highlights, #3b82f6);
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.start-free-session {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-16 {
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffff;
+  border-width: 1px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.view-features {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.rectangle-1 {
+  flex-shrink: 0;
+  width: 712px;
+  height: 466px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-21 {
+  display: flex;
+  flex-direction: row;
+  gap: 264px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 114px;
+  top: 18px;
+}
+.frame-12 {
+  display: flex;
+  flex-direction: row;
+  gap: 144px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo-of-zenova-lab-1 {
+  border-radius: 39.5px;
+  flex-shrink: 0;
+  width: 234px;
+  height: 49px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 234/49;
+}
+.frame-9 {
+  background: linear-gradient(
+    94.72deg,
+    rgba(59, 130, 246, 1) 0%,
+    rgba(35, 76, 144, 1) 100%
+  );
+  border-radius: 100px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  padding: 20px 28px 20px 30px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  width: 198px;
+  height: 59px;
+  position: absolute;
+  left: 1147px;
+  top: 13px;
+}
+.enter-focus-room {
+  color: #000000;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+}
+.frame-8 {
+  border-radius: 25px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 146px;
+  height: 145px;
+  position: absolute;
+  left: 650px;
+  top: 13px;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.headline {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.frame-3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-7 {
+  border-radius: 25px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 146px;
+  height: 174px;
+  position: absolute;
+  left: 494px;
+  top: 13px;
+}
+.frame-32 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet2 {
+  color: #ffffff;
+  text-align: left;
+  position: relative;
+  align-self: stretch;
+}
+.this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-2-span {
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 16px;
+  font-weight: 600;
+}
+.this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-this-is-accordion-text-content-lorem-ipsum-dolor-sit-amet-2-span2 {
+  font-family: "Roboto-Medium", sans-serif;
+  font-size: 12px;
+  font-weight: 500;
+}
+.how-it-works {
+  width: 1440px;
+  height: 666px;
+  position: absolute;
+  left: 0px;
+  top: 654px;
+  overflow: hidden;
+}
+.how-it-works2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h2-font-size, 36px);
+  font-weight: var(--h2-font-weight, 600);
+  position: absolute;
+  left: calc(50% - 118px);
+  top: 49px;
+  width: 238px;
+}
+.frame-73 {
+  display: flex;
+  flex-direction: row;
+  gap: 97px;
+  align-items: center;
+  justify-content: flex-start;
+  position: absolute;
+  left: 131px;
+  top: 140px;
+}
+.frame-66 {
+  background: linear-gradient(
+    180deg,
+    rgba(30, 41, 59, 1) 0%,
+    rgba(34, 46, 67, 1) 8.173076808452606%,
+    rgba(82, 112, 161, 1) 100%
+  );
+  padding: 46px 66px 44px 58px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 328px;
+  height: 386px;
+  position: relative;
+}
+.frame-65 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 204px;
+  position: relative;
+}
+.aaa-1 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 184.6px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 204/184.6;
+}
+.frame-64 {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.choose-your-environment {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.select-from-immersive-focus-spaces-like-rain-cafe-mountain-cabin-or-night-study {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  width: 174px;
+}
+.frame-69 {
+  background: linear-gradient(
+    180deg,
+    rgba(30, 41, 59, 1) 0%,
+    rgba(34, 46, 67, 1) 8.173076808452606%,
+    rgba(82, 112, 161, 1) 100%
+  );
+  padding: 46px 58px 55px 58px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 328px;
+  height: 386px;
+  position: relative;
+}
+.frame-68 {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 212px;
+  position: relative;
+}
+.aaa-2 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 178px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 212/178;
+}
+.frame-67 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 169px;
+  position: relative;
+}
+.set-your-focus-timer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.customize-your-session-length-and-eliminate-distractions-with-a-single-click {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-72 {
+  background: linear-gradient(
+    180deg,
+    rgba(30, 41, 59, 1) 0%,
+    rgba(34, 46, 67, 1) 8.173076808452606%,
+    rgba(82, 112, 161, 1) 100%
+  );
+  padding: 39px 55px 53px 64px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 328px;
+  height: 386px;
+  position: relative;
+}
+.frame-71 {
+  display: flex;
+  flex-direction: column;
+  gap: 23px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 209px;
+  position: relative;
+}
+.aaa-3 {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 180px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 209/180;
+}
+.frame-70 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 160px;
+  position: relative;
+}
+.track-your-progress {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.monitor-sessions-build-streaks-and-visualize-your-productivity-growth {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.rectangle-3 {
+  width: 1440px;
+  height: 507px;
+  position: absolute;
+  left: 1728px;
+  top: 3307.5px;
+  overflow: visible;
+}
+.frame-63 {
+  display: flex;
+  flex-direction: column;
+  gap: 49px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 1441px;
+  position: absolute;
+  left: 50%;
+  translate: -50%;
+  top: 1975px;
+}
+.people {
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 633px;
+  position: relative;
+  overflow: hidden;
+}
+.frame-45 {
+  display: flex;
+  flex-direction: column;
+  gap: 55px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 876px;
+  position: absolute;
+  left: 283px;
+  top: 18px;
+}
+.frame-38 {
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 490px;
+  position: relative;
+}
+._12-450-deep-work-sessions {
+  color: #ffffff;
+  text-align: center;
+  font-family: "-", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+._12-450-deep-work-sessions-span {
+  font-family: var(--h3-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h3-font-size, 28px);
+  font-weight: var(--h3-font-weight, 600);
+}
+._12-450-deep-work-sessions-span2 {
+  font-family: "Poppins-Regular", sans-serif;
+}
+.helping-creators-students-and-builders-achieve-more-every-day {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--body-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  font-weight: var(--body-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.frame-44 {
+  padding: 0px 10px 0px 36px;
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.what-users-say {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--h3-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h3-font-size, 28px);
+  font-weight: var(--h3-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.frame-43 {
+  display: flex;
+  flex-direction: row;
+  gap: 111px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-39 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 133px;
+  position: relative;
+}
+.one-1 {
+  border-radius: 122.5px;
+  flex-shrink: 0;
+  width: 91px;
+  height: 137px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 91/137;
+}
+.i-used-to-struggle-with-distractions-while-studying-the-rain-caf-room-completely-changed-how-i-focus-i-ve-never-felt-this-consistent-before-aarav-m-university-student {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-40 {
+  display: flex;
+  flex-direction: column;
+  gap: 45px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 127px;
+  position: relative;
+}
+.three-1 {
+  border-radius: 122.5px;
+  flex-shrink: 0;
+  width: 91px;
+  height: 136px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 91/136;
+}
+.zenova-labs-helped-me-build-a-daily-deep-work-habit-the-timer-and-environment-combo-is-simple-but-incredibly-powerful-saanvi-r-product-designer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-41 {
+  display: flex;
+  flex-direction: column;
+  gap: 43px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 123px;
+  position: relative;
+}
+.two-1 {
+  border-radius: 122.5px;
+  flex-shrink: 0;
+  width: 91px;
+  height: 137px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 91/137;
+}
+.the-mountain-cabin-environment-feels-peaceful-and-immersive-it-s-like-stepping-away-from-the-world-without-leaving-my-desk-ritesh-k-writer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-42 {
+  display: flex;
+  flex-direction: column;
+  gap: 25px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 94px;
+  position: relative;
+}
+.four-1 {
+  border-radius: 122.5px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 140.98px;
+  position: relative;
+  object-fit: cover;
+  aspect-ratio: 94/140.98;
+}
+.tracking-my-focus-streaks-keeps-me-accountable-seeing-my-weekly-deep-work-stats-motivates-me-to-push-further-nia-s-software-developer {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--small-text-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--small-text-font-size, 14px);
+  font-weight: var(--small-text-font-weight, 500);
+  position: relative;
+  align-self: stretch;
+}
+.frame-48 {
+  background: var(--cards-and-sections, #1e293b);
+  width: 1441px;
+  height: 319px;
+  position: absolute;
+  left: 0px;
+  top: 2887px;
+  overflow: hidden;
+}
+.frame-62 {
+  display: flex;
+  flex-direction: column;
+  gap: 39px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 1179px;
+  position: absolute;
+  left: 82px;
+  top: 45px;
+}
+.frame-51 {
+  flex-shrink: 0;
+  width: 198px;
+  height: 40px;
+  position: relative;
+}
+.logo-of-zenova-lab-2 {
+  width: 198px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+  aspect-ratio: 198/40;
+}
+.frame-61 {
+  padding: 0px 100px 0px 100px;
+  display: flex;
+  flex-direction: row;
+  gap: 105px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-54 {
+  flex-shrink: 0;
+  width: 174px;
+  height: 115px;
+  position: relative;
+}
+.features {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.focus-with-others {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+}
+.calendar-management {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 64px;
+}
+.notes {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 96px;
+}
+.frame-53 {
+  flex-shrink: 0;
+  width: 88px;
+  height: 109px;
+  position: relative;
+}
+.product {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.frame-52 {
+  width: 88px;
+  height: 77px;
+  position: absolute;
+  left: 0px;
+  top: 32px;
+}
+.get-started {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.blog {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 29px;
+}
+.explore {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: absolute;
+  left: 0px;
+  top: 58px;
+}
+.frame-57 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 101px;
+  position: relative;
+}
+.company {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.frame-532 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.terms-of-use {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 117px;
+}
+.privacy {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.frame-58 {
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 88px;
+  height: 47px;
+  position: relative;
+}
+.support {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.frame-522 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.help-center {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  width: 114px;
+}
+.frame-60 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 108px;
+  height: 150px;
+  position: relative;
+}
+.socials {
+  color: #ffffff;
+  text-align: center;
+  font-family: var(--buttons-font-family, "Inter-SemiBold", sans-serif);
+  font-size: var(--buttons-font-size, 16px);
+  font-weight: var(--buttons-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+  flex: 1;
+}
+.frame-59 {
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-56 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 88px;
+  height: 112px;
+  position: relative;
+}
+.instagram {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.tiktok {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.linkedin {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+}
+.twitter {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-Medium", sans-serif;
+  font-size: 16px;
+  font-weight: 500;
+  position: relative;
+}
+.features2 {
+  width: 66px;
+  height: 19px;
+  position: absolute;
+  left: 845px;
+  top: 37px;
+}
+.features3 {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--body-font-family, "Inter-Regular", sans-serif);
+  font-size: var(--body-font-size, 16px);
+  font-weight: var(--body-font-weight, 400);
+  position: absolute;
+  right: 21.21%;
+  left: 0%;
+  width: 78.79%;
+  bottom: 0%;
+  top: 0%;
+  height: 100%;
+}
+.features4 {
+  width: 66px;
+  height: 19px;
+  position: absolute;
+  left: 991px;
+  top: 37px;
+}
+.frame-76 {
+  display: flex;
+  flex-direction: column;
+  gap: 33px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 460px;
+  position: absolute;
+  left: 490.5px;
+  top: 2657px;
+}
+.frame-47 {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.ready-to-enter-flow-state {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(--h2-font-family, "Poppins-SemiBold", sans-serif);
+  font-size: var(--h2-font-size, 36px);
+  font-weight: var(--h2-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.frame-75 {
+  background: linear-gradient(
+    87.42deg,
+    rgba(30, 41, 59, 0.6) 0%,
+    rgba(82, 112, 161, 1) 100%
+  );
+  border-radius: 5px;
+  padding: 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.start-free-session2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 28px;
+  font-weight: 500;
+  position: relative;
+}
